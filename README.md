@@ -23,9 +23,7 @@ A search that allows you to look for a book in the database
 
 To install necessary dependencies, run the following command:
 
-```
-undefined
-```
+npm install
 
 ## Usage
 
@@ -37,15 +35,13 @@ This project is licensed under the undefined license.
   
 ## Contributing
 
-undefined
+Mohammed Samod
 
 ## Tests
 
 To run tests, run the following command:
 
-```
-undefined
-```
+N/A
 
 ## Questions
 
